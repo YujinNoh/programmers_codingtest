@@ -22,4 +22,5 @@ def solution(n, lost, reserve):
         else:
             answer -= 1
            
+    
     return answer
