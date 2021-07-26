@@ -21,5 +21,5 @@ def solution(n, lost, reserve):
             reserve.remove(l+1)
         else:
             answer -= 1
-            
+           
     return answer
