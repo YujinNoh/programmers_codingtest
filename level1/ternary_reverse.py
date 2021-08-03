@@ -31,7 +31,7 @@ def solution(n):
     return int(answer, 3)
 
   
-# version 2
+# version 2 (shortest version)
 def solution(n):
     answer = ''
     
